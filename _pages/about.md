@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher in the LMSD group (<a href='https://www.mech.kuleuven.be/en/mod'>) at KU Leuven.
+I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/mod'> LMSD group at KU Leuven.
 
 
 # 🔥 News
