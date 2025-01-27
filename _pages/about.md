@@ -29,15 +29,15 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 
 # 📖 Educations
 - *2020.11 - 2025.01*, KU Leuven, PhD, Mechanical engineering, supervised by Prof. Wim Desmet, Prof. Elke Deckers and Dr, Sjoerd van Ophem.
-- *2017.09 - 2020.06*, Xi'an Jiaotong University, Master, Aeronautical and Astronautical Science and Technology, supervised by Prof. Guirong Yang (闫桂荣).
+- *2017.09 - 2020.06*, Xi'an Jiaotong University, Master, Aeronautical and Astronautical Science and Technology, supervised by Prof. Guirong Yan (闫桂荣).
 - *2013.09 - 2017.06*, Xi'an Jiaotong University, Bachelor, Flight Vehicle Design and Engineering. 
 
 # 🧗🏻‍♀️ Experience
-- *2025.01 - Now, Postdoc, KU Leuven
+- *2025.01 - Now*, Postdoc, KU Leuven
 - *2024.10 - 2025.01*, visiting researcher, LAUM, in collaboration with <a href='https://perso.univ-lemans.fr/~ggabard/'>Prof. Gwénaël Gabard
 - *2020.11 - 2025.01*, PhD researcher, KU Leuven 
 
 # 🌟 Services
-- *Reviewer: MSSP, CMAME, ISA Trasactions, IJCM
-- *Teaching assistant (2022-2024): Noise abatement in machines, vehicles and aircraft
+- *Reviewer*: MSSP, CMAME, ISA Trasactions, IJCM
+- *Teaching assistant (2022-2024)*: Noise abatement in machines, vehicles and aircraft
 
