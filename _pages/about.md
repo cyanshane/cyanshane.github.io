@@ -25,7 +25,7 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 
 
 # 🎖 Honors and Awards
-- *2024.10* Granted by FWO for long stay abroad. 
+- *2024.10*, Granted by FWO for long stay abroad. 
 
 # 📖 Educations
 - *2020.11 - 2025.01*, KU Leuven, PhD, Mechanical engineering, supervised by Prof. Wim Desmet, Prof. Elke Deckers and Dr, Sjoerd van Ophem.
