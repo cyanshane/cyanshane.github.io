@@ -25,16 +25,16 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 
 
 # 🎖 Honors and Awards
-- *2024.10*, Granted by FWO for long stay abroad. 
+- *2024.10*, Granted by FWO for a long stay abroad. 
 
 # 📖 Educations
-- *2020.11 - 2025.01*, KU Leuven, PhD, Mechanical engineering, supervised by Prof. Wim Desmet, Prof. Elke Deckers and Dr, Sjoerd van Ophem.
+- *2020.11 - 2025.04*, KU Leuven, PhD, Mechanical engineering, supervised by Prof. Wim Desmet, Prof. Elke Deckers and Dr, Sjoerd van Ophem.
 - *2017.09 - 2020.06*, Xi'an Jiaotong University, Master, Aeronautical and Astronautical Science and Technology, supervised by Prof. Guirong Yan (闫桂荣).
 - *2013.09 - 2017.06*, Xi'an Jiaotong University, Bachelor, Flight Vehicle Design and Engineering. 
 
 # 🧗🏻‍♀️ Experience
-- *2025.01 - Now*, Postdoc, KU Leuven
-- *2024.10 - 2025.01*, visiting researcher, LAUM, in collaboration with <a href='https://perso.univ-lemans.fr/~ggabard/'>Prof. Gwénaël Gabard
+- *2025.04 - Now*, Postdoc, KU Leuven
+- *2024.10 - 2025.04*, visiting researcher, LAUM, in collaboration with <a href='https://perso.univ-lemans.fr/~ggabard/'>Prof. Gwénaël Gabard
 - *2020.11 - 2025.01*, PhD researcher, KU Leuven 
 
 # 🌟 Services
