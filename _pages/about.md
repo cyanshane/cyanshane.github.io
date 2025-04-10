@@ -35,7 +35,7 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 # 🧗🏻‍♀️ Experience
 - *2025.04 - Now*, Postdoc, KU Leuven
 - *2024.10 - 2025.04*, visiting researcher, LAUM, in collaboration with <a href='https://perso.univ-lemans.fr/~ggabard/'>Prof. Gwénaël Gabard
-- *2020.11 - 2025.01*, PhD researcher, KU Leuven 
+- *2020.11 - 2025.04*, PhD researcher, KU Leuven 
 
 # 🌟 Services
 - *Reviewer*: MSSP, CMAME, ISA Trasactions, IJCM
