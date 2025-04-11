@@ -3,9 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Personal projects"
+    url: "/#-Personal-projects"
+
   - title: "News"
     url: "/#-news"
-
+    
   - title: "Publications"
     url: "/#-publications"
 
@@ -14,9 +17,3 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
