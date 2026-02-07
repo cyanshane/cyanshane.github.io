@@ -28,7 +28,7 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 - *2024.10*, Granted by FWO for a long stay abroad. 
 
 # 📖 Educations
-- *2020.11 - 2025.03*, KU Leuven, PhD, Mechanical engineering, supervised by Prof. Wim Desmet, Prof. Elke Deckers and Dr, Sjoerd van Ophem.
+- *2020.11 - 2025.03*, KU Leuven, PhD, Mechanical engineering, supervised by Prof. Wim Desmet, Prof. Elke Deckers and Dr. Sjoerd van Ophem.
 - *2017.09 - 2020.06*, Xi'an Jiaotong University, Master, Aeronautical and Astronautical Science and Technology, supervised by Prof. Guirong Yan (闫桂荣).
 - *2013.09 - 2017.06*, Xi'an Jiaotong University, Bachelor, Flight Vehicle Design and Engineering. 
 
