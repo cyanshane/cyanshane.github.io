@@ -38,6 +38,6 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 - *2020.11 - 2025.03*, PhD researcher, KU Leuven 
 
 # 🌟 Services
-- *Reviewer*: MSSP, CMAME, Mathematics and Computers in Simulation, Ocean Engineering, ISA Trasactions, IJCM
+- *Reviewer*: MSSP, CMAME, IJNME, Mathematics and Computers in Simulation, Ocean Engineering, ISA Trasactions, IJCM
 - *Teaching assistant (2022-2024)*: Noise abatement in machines, vehicles and aircraft
 
