@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yinshan Cai"
-description              : "Computational acoustics, model order reduction, virtual sensing, data–physics fusion, and executable digital twins."
-repository               : "cyanshane/cyanshane.github.io"
+description              : "A researcher into computational acoustics coupling with many fields (vibration, flow, heating, and my life)"
+repository               : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinshan Cai"
   avatar           : "images/my_photo.jpeg"
-  bio              : "Postdoctoral researcher · Computational acoustics & digital twins"
+  bio              : "KU Leuven"
   location         : "Leuven, Belgium"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cyanshane"
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
