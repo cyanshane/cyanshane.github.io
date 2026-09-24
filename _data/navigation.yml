@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/"
 
   - title: "Personal Projects"
-    url: "/#personal-projects"
+    url: "https://cyanshane.github.io/personal-projects/"
