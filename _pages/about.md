@@ -39,7 +39,3 @@ I am a postdoctoral researcher in the <a href='https://www.mech.kuleuven.be/en/m
 - *Reviewer*: MSSP, CMAME, IJMS, IJNME, JASA, Mathematics and Computers in Simulation, Ocean Engineering, ISA Trasactions, Array, IJCM
 - *Teaching assistant (2022-2024)*: Noise abatement in machines, vehicles and aircraft
 
-<span class='anchor' id='personal-projects'></span>
-
-# Personal Projects
-
